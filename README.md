@@ -1,8 +1,10 @@
-# 📊 Dokumentasi Proyek Analisis Data
+# 📊 Dokumentasi Proyek Analisis Data - Dicoding Collection
 
 ## 📝 Deskripsi Proyek
 
-Proyek ini berisi analisis data untuk mengidentifikasi preferensi produk berdasarkan demografi pelanggan, seperti gender dan kelompok usia. Analisis ini bermanfaat untuk memahami pola pembelian dan strategi pemasaran yang lebih efektif menggunakan dataset DicodingCollection yang merupakan modifikasi dari dataset Shopping Cart Database.
+Proyek ini berisi analisis data untuk mempelajari performa penjualan produk fashion dari perusahaan "Dicoding Collection (DiCo)" dengan menganalisis data penjualan, produk, dan pelanggan. Analisis ini mengidentifikasi preferensi produk berdasarkan demografi pelanggan (gender dan usia), pola pembelian, dan tren penjualan untuk menghasilkan wawasan bisnis dan rekomendasi strategi pemasaran yang lebih efektif.
+
+Dataset yang digunakan adalah DicodingCollection yang merupakan modifikasi dari dataset Shopping Cart Database, berisi data penjualan online fashion dari tahun 2021.
 
 ## 🗂️ Struktur Proyek
 
